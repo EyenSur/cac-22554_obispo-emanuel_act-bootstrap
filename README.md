@@ -9,4 +9,4 @@ Año 2022
 <br>
 Actividad: Bootstrap
 <br><br>
-[Vista Previa](https://eyensur.github.io/cac-22554_obispo-emanuel_act-bootstrap/)
+[Vista Previa](https://obiqui.github.io/cac-22554_obispo-emanuel_act-bootstrap/)
